@@ -1,0 +1,2 @@
+# NewCoin
+the new coin
