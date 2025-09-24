@@ -2,7 +2,7 @@
   "name": "NewCoin - Clicker",
   "short_name": "NewCoin - Clicker",
   "description": "NewCoin - Clicker",
-  "start_url": "/",
+  "start_url": "https://cat-yura-game.github.io/NewCoin/Debug.html",
   "display": "fullscreen",
   "background_color": "#000000",
   "theme_color": "#000000",
